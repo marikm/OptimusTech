@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.logo{
+    width: 142px;
+    height: 32px;
+}
+
+.cabecario{
+    display: flex;
+    background-color: aqua;
+    width: 1440px;
+    height: 80px;
+}
+
+.cabecario .container{
+    display: flex;
+    background-color: red;
+    width: 1280px;
+    height: 44px;
+    padding: 32px;
+
+}
+.cabecario .container .botoes{
+    color: aquamarine;
+}
+
+.opcoesmenu{
+    color: aqua;
+}
+
