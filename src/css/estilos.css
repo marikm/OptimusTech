@@ -20,7 +20,7 @@ body{
     height: 32px;
 }
 
-.cabecario{
+.header{
     display: flex;
     justify-content: space-around; /*espalha os itens*/
     align-items: center;
@@ -47,4 +47,29 @@ button{
 button#botaoCadastro{
     background-color: #8E2424;
     color: white;
+}
+
+.cabecalho{
+    text-align: center;
+}
+h5{
+    size: 16px;
+    line-height: 24px;
+    color:#8E2424;
+}
+
+h1{
+    size: 48px;
+    color: #101828;
+    line-height: 60px;
+
+}
+
+p{
+    size:20px;
+    color: #667085;
+    weight:400;
+    line-height: 30px;
+    
+
 }
