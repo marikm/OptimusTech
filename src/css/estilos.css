@@ -51,6 +51,9 @@ button#botaoCadastro{
 
 .cabecalho{
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 96px;
 }
 h5{
     size: 16px;
@@ -62,10 +65,11 @@ h1{
     size: 48px;
     color: #101828;
     line-height: 60px;
+    padding: 24px;
 
 }
 
-p{
+.cabecalho p{
     size:20px;
     color: #667085;
     weight:400;
