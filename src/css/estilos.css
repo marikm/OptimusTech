@@ -83,6 +83,11 @@ h1{
     width: 100%;
     height: auto;
     padding-bottom: 96px;
+    align-items: flex-start;
+    gap: 32px;
+    padding-left: 96px;
+    padding-right: 96px;
+
 }
 
 .metricas-container h2{
